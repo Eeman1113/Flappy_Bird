@@ -1,3 +1,7 @@
+!pip3 install keyboard
+!pip3 install pygame
+
+
 from ast import Pass #this imports Pass from ast
 import pygame #this imports pygame
 from pygame import mixer #this imports mixer from pygame
